@@ -1,4 +1,4 @@
-TARGET = iphone:13.2
+# TARGET = iphone:13.2
 
 INSTALL_TARGET_PROCESSES = SpringBoard
 Test_CFLAGS+=“-DTHEOS_LEAN_AND_MEAN
