@@ -1,0 +1,10 @@
+Package: dev.aryanjnambiar.wonderbar
+Name: Wonderbar
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 12), ws.hbang.alderis, preferenceloader
+Architecture: iphoneos-arm
+Description: Complete status bar customization at your fingertips!
+Maintainer: Aryan Nambiar
+Author: Aryan Nambiar
+Section: Tweaks
+Version: 1.1
+Installed-Size: 368
