@@ -9,7 +9,7 @@ If you have any issues, please make a new issue on the [Issues Page](https://git
 
 ## Suggestions
 
-If you have any suggestions for new features, please [email me](mailto:awesomeajn@gmail.com), contact me on Discord at Blue#9588, or DM me on [Twitter](https://twitter.com/ifisq)!
+If you have any suggestions for new features, please [email me](mailto:aryan@nambiar.dev), contact me on Discord at Blue#9588, or DM me on [Twitter](https://twitter.com/ifisq)!
 
 ## Licensing
 
